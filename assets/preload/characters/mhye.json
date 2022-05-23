@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				114,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				90,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				27,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				70,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "manifest",
+			"indices": [],
+			"name": "Hye Manifest"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mhye",
+	"position": [
+		-20,
+		-210
+	],
+	"healthicon": "mhye",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		204
+	],
+	"camera_position": [
+		240,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
